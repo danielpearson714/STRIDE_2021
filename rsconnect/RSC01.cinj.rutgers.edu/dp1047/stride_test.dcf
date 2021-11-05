@@ -1,0 +1,14 @@
+name: stride_test
+title: STRIDE_test
+username: dp1047
+account: dp1047
+server: RSC01.cinj.rutgers.edu
+hostUrl: https://RSC01.cinj.rutgers.edu/__api__
+appId: 3
+bundleId: 1
+url: https://RSC01.cinj.rutgers.edu/content/6a604fd8-27b0-4c0b-baed-b2864dbfa038/
+when: 1628805582.4772
+lastSyncTime: 1628805582.4772
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: breast_all.png|breast_treatment.png|byrace.png|funding_slide.png|funding_table.png|protoplot.png|pubs_slide.png|pubs_table.png|vit_ins.png|vital_tab.png

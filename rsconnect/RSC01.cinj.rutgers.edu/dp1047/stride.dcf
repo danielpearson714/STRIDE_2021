@@ -1,0 +1,14 @@
+name: stride
+title: STRIDE
+username: dp1047
+account: dp1047
+server: RSC01.cinj.rutgers.edu
+hostUrl: https://RSC01.cinj.rutgers.edu/__api__
+appId: 8
+bundleId: 27
+url: https://RSC01.cinj.rutgers.edu/content/8ed8344f-ef1d-4e98-b332-5c65d8e54843/
+when: 1633628340.54885
+lastSyncTime: 1633628340.54885
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: art1.png|art2.png|art3.png|art4.png|breast_all.png|breast_treatment.png|BYAREA_COUNTY.TXT|byrace.png|cases_gender_NB.png|cases_gender_SBMC.png|cases_race_NB.png|cases_race_SBMC.png|county_rates18.csv|cpc_area.csv|density_gi.png|eab_updates13.18|eab_updates13.18.csv|funding_slide.png|funding_table.png|funding_table_dsg.png|funding2_dsg.png|gi_all.png|gi_treatment.png|GU DSG Slides.R|hmm.csv|lung_target.R|mortality_AX.csv|old/app.R|old/ui.R|payer_JC.png|pie.png|pie_total.png|prostate_cases.png|protoplot.png|protoplot2.png|Pubs and SA Breast.R|pubs_slide.png|pubs_table.png|pubs_table_dsg.png|pubs_table_spark.html|pubs2_dsg.png|race_JC.png|renv.zip|retreat slides.R|retreat1.png|retreat2.png|ScreenNJ Target Zip Codes - UPDATED 9.1.21.csv|ScreenNJ Target Zip Codes.png|ScreenNJ_RFP.R|September_1.RData|top15.png|top15_SBMC.png|vit_ins.png|vital_tab.png
